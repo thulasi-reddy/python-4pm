@@ -1,1 +1,5 @@
-for(i=1;i<=10;i++)
+function add(a,b){
+    return (a+b);
+    console.log("hello good morning");
+    }
+    add(5,6);
